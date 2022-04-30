@@ -20,7 +20,7 @@ What does DPAPI protect?
 
 Why is DPAPI important for cybersecurity?
 ---
-Information stored in applications is decrypted using DPAPI. In this way, attacker passwords may be captured.For use in attack scenarios, two applications written in Python language have been developed that steal the information stored in internet browsers.
+Information stored in applications is decrypted using DPAPI. In this way, attacker passwords may be captured. For use in attack scenarios, two applications written in Python language have been developed that steal the information stored in internet browsers.
 <dl>
   <dd>-Browser Stealer
   <dd>-Browser Stealer Report
