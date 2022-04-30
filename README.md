@@ -14,7 +14,7 @@ What does DPAPI protect?
   <dd>-Outlook for S/MIME
   <dd>-Wireless network account keys and passwords
   <dd>-Private keys for Encrypting File System (EFS), SSL/TLS in Internet Information Services 
-  <dd>- Network passwords in Credential Manager
+  <dd>-Network passwords in Credential Manager
   <dd>-Personal data in any application protected with the API function.
 </dl>
 
