@@ -33,6 +33,10 @@ Browser Stealer
 
 Finds Internet browsers and applications that use those browsers. It detects files that hold personal information such as username and password, and credit card information. It decrypts these files using DPAPI. It transmits this information to the attacker via email.
 
+[For more information.](/Browser_Stealer/README.md)
+
+**Screenshot [1]**
+
 ![3](https://user-images.githubusercontent.com/71177413/166140991-14285215-a949-41fd-8a80-b7f15f762f57.JPG)
 
 <dl>
@@ -48,7 +52,15 @@ Browser Stealer Report
 
 Finds internet browsers and applications that use those browsers. It detects files containing personal information such as username and password, credit card information and cookies. It decrypts these files using DPAPI. It saves this information in an excel file named "Report.xls".
 
+[For more information.](/Browser_Stealer_Report/README.md)
+
+**Screenshot [1]**
+
 ![8](https://user-images.githubusercontent.com/71177413/166141005-add888ec-49e3-45ef-b157-47055d9cb1d1.JPG)
+
+**Screenshot [2]**
+
+![10](https://user-images.githubusercontent.com/71177413/166142257-cf120fb2-dac6-44b1-a219-5e0b0ae35c8d.JPG)
 
 <dl>
   <dt> (Executable) Browser Stealer Report
@@ -57,3 +69,7 @@ Finds internet browsers and applications that use those browsers. It detects fil
   <dd> Link = https://drive.google.com/file/d/13ZrjFqpua_BijbaE52RQ2gfCPX65Mubh/view?usp=sharing
 </dl>
 
+
+Legal Warning
+---
+Run your tests on virtual machines. The responsibility for illegal use belongs to the user. Shared for educational purposes.
