@@ -87,7 +87,7 @@ pyinstaller --onefile --noconsole --icon=Browser_Stealer.ico Browser_Stealer.py
 Some Screenshot of the Working of the Program
 ---
 
-**Screenshot [1] (Depending on your mail settings, mails may fall into junk mail.)**
+**Screenshot [1] (Depending on your mail settings, e-mails may fall into junk mail.)**
 ![2](https://user-images.githubusercontent.com/71177413/166140643-3a169c8b-0693-4b39-aac1-66fd6fda4e5a.JPG)
 
 **Screenshot [2] (When the program runs, it sends the information to the e-mail address in its settings.)**
