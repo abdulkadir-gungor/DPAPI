@@ -74,7 +74,7 @@ Some Screenshot of the Working of the Program
 ![10](https://user-images.githubusercontent.com/71177413/166139197-93fe17b8-eed2-473a-8f51-d2ce4d8d18e4.JPG)
 
 
-**Screenshot [4] (The sheet showing the credit cards registered in the report produced by the program)**
+**Screenshot [4] (The sheet showing the saved credit cards in the report produced by the program)**
 ![11](https://user-images.githubusercontent.com/71177413/166139251-5e006a71-d077-4de5-a4af-d29a0a2a0c19.JPG)
 
 
