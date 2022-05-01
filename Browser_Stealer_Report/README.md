@@ -12,6 +12,21 @@ Finds internet browsers and applications that use those browsers. It detects fil
 ![key](https://user-images.githubusercontent.com/71177413/166139637-b07e629a-f7b4-41e4-b8d1-5c4f893e0e83.JPG)
 
 
+Supported Browsers
+---
+This python program gets all the saved passwords, credit cards and cookies from chromium based browsers supports chromium 80 and above!
+<dl>
+  <dt> Supported some browsers
+  <dd>
+  <dd> ✔ Chrome
+  <dd> ✔ Brave
+  <dd> ✔ Edge (Chromium)
+  <dd> ✔ Opera
+  <dd> ✔ Yandex
+  <dd> ✔ Other browsers
+</dl>
+
+
 The Compiled Version of the Program Can be Downloaded from the Links Below.
 ---
 <dl>
