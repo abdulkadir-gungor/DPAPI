@@ -27,7 +27,10 @@ Information stored in applications is decrypted using DPAPI. In this way, attack
   <dd>
 </dl>
 
-**Browser Stealer:**
+
+Browser Stealer
+---
+
 Finds Internet browsers and applications that use those browsers. It detects files that hold personal information such as username and password, and credit card information. It decrypts these files using DPAPI. It transmits this information to the attacker via email.
 
 ![3](https://user-images.githubusercontent.com/71177413/166140991-14285215-a949-41fd-8a80-b7f15f762f57.JPG)
@@ -40,7 +43,9 @@ Finds Internet browsers and applications that use those browsers. It detects fil
 </dl>
 
 
-**Browser Stealer Report:**
+Browser Stealer Report
+---
+
 Finds internet browsers and applications that use those browsers. It detects files containing personal information such as username and password, credit card information and cookies. It decrypts these files using DPAPI. It saves this information in an excel file named "Report.xls".
 
 ![8](https://user-images.githubusercontent.com/71177413/166141005-add888ec-49e3-45ef-b157-47055d9cb1d1.JPG)
