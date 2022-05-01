@@ -59,31 +59,30 @@ Compilation
 pyinstaller --onefile --icon=Browser_Stealer_Report.ico Browser_Stealer_Report.py
 ```
 
-Some Images of the Working of the Program
+Some Screenshot of the Working of the Program
 ---
 
-**1) Screenshot taken while the program is running**
+**Screenshot [1] (Screenshot taken while the program is running)**
 ![8](https://user-images.githubusercontent.com/71177413/166138985-cb48fcaf-d89c-4fa2-9f46-54609f54e5b0.JPG)
 
 
-**2) The sheet showing the browsers on the computer in the report produced by the program**
+**Screenshot [2] (The sheet showing the browsers on the computer in the report produced by the program)**
 ![9](https://user-images.githubusercontent.com/71177413/166139105-d420cdad-12be-4426-84ea-ff3021501be0.JPG)
 
 
-**3) The sheet showing the saved passwords in the report produced by the program**
+**Screenshot [3] (The sheet showing the saved passwords in the report produced by the program)**
 ![10](https://user-images.githubusercontent.com/71177413/166139197-93fe17b8-eed2-473a-8f51-d2ce4d8d18e4.JPG)
 
 
-
-**4) The sheet showing the credit cards registered in the report produced by the program**
+**Screenshot [4] (The sheet showing the credit cards registered in the report produced by the program)**
 ![11](https://user-images.githubusercontent.com/71177413/166139251-5e006a71-d077-4de5-a4af-d29a0a2a0c19.JPG)
 
 
-**5) The sheet showing the (current) cookies registered in the report produced by the program**
+**Screenshot [5] (The sheet showing the (current) cookies registered in the report produced by the program)**
 ![12](https://user-images.githubusercontent.com/71177413/166139280-01179ffd-fb96-4db8-bfc2-f72532f8c22c.JPG)
 
 
-**6) The sheet showing the (expired) cookies registered in the report produced by the program**
+**Screenshot [6] (The sheet showing the (expired) cookies registered in the report produced by the program)**
 ![13](https://user-images.githubusercontent.com/71177413/166139310-fe79c485-25ee-4fbc-b626-2fcbc4d222a6.JPG)
 
 
