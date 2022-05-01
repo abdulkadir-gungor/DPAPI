@@ -37,7 +37,7 @@ Finds Internet browsers and applications that use those browsers. It detects fil
 
 **Screenshot [1]**
 
-![1](https://user-images.githubusercontent.com/71177413/166143994-414c1813-dc85-4122-903b-43ff43b3ebf2.JPG)
+![3](https://user-images.githubusercontent.com/71177413/166144090-8fb3048f-9bca-47f8-beaa-46ecad1669cd.JPG)
 
 <dl>
   <dt> (Executable) Browser Stealer Download
