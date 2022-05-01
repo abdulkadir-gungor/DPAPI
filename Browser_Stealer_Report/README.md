@@ -2,10 +2,10 @@
 # Browser Stealer Report
 Finds internet browsers and applications that use those browsers. It detects files containing personal information such as username and password, credit card information and cookies. It decrypts these files using DPAPI. It saves this information in an excel file named "Report.xls".
 
-**1) The algorithm used by the program for passwords is shown in the graphic below.**
+**1) The algorithm used by the program for saved passwords is shown in the graphic below.**
 ![key1](https://user-images.githubusercontent.com/71177413/166139625-fd15d6ea-6355-4a80-ae83-15b6437b54e5.JPG)
 
-**2) The algorithm used by the program for credit cards is shown in the graphic below.**
+**2) The algorithm used by the program for saved credit cards is shown in the graphic below.**
 ![key2](https://user-images.githubusercontent.com/71177413/166139633-a23d31a5-d098-440d-ba6b-ae36995777b7.JPG)
 
 **3) The algorithm used by the program for cookies is shown in the graphic below.**
