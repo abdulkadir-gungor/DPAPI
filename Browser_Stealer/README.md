@@ -92,7 +92,7 @@ Some Screenshot of the Working of the Program
 
 
 **Screenshot [2] (When the program runs, it sends the information to the e-mail address in its settings.)**
-![1](https://user-images.githubusercontent.com/71177413/166143994-414c1813-dc85-4122-903b-43ff43b3ebf2.JPG)
+![3](https://user-images.githubusercontent.com/71177413/166144090-8fb3048f-9bca-47f8-beaa-46ecad1669cd.JPG)
 
 
 **Screenshot [3] (The e-mail address can be changed by sending the parameters to the program at the beginning.)**
