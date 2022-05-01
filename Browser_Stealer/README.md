@@ -84,16 +84,16 @@ Compilation
 pyinstaller --onefile --noconsole --icon=Browser_Stealer.ico Browser_Stealer.py
 ```
 
-Some Images of the Working of the Program
+Some Screenshot of the Working of the Program
 ---
 
-**1) Depending on your mail settings, mails may fall into junk mail.**
+**Screenshot [1] (Depending on your mail settings, mails may fall into junk mail.)**
 ![2](https://user-images.githubusercontent.com/71177413/166140643-3a169c8b-0693-4b39-aac1-66fd6fda4e5a.JPG)
 
-**2) When the program runs, it sends the information to the e-mail address in its settings.**
+**Screenshot [2] (When the program runs, it sends the information to the e-mail address in its settings.)**
 ![1](https://user-images.githubusercontent.com/71177413/166140663-3d756371-de97-4efd-8126-5d75614da434.JPG)
 
-**3) The e-mail address can be changed by sending the parameters to the program at the beginning.**
+**Screenshot [3] (The e-mail address can be changed by sending the parameters to the program at the beginning.)**
 ![4](https://user-images.githubusercontent.com/71177413/166140793-c18caf24-b312-4e0a-a403-750c6f22da11.JPG)
 
 
