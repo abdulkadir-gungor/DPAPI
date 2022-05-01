@@ -88,13 +88,15 @@ Some Screenshot of the Working of the Program
 ---
 
 **Screenshot [1] (Depending on your mail settings, e-mails may fall into junk mail.)**
-![2](https://user-images.githubusercontent.com/71177413/166140643-3a169c8b-0693-4b39-aac1-66fd6fda4e5a.JPG)
+![2](https://user-images.githubusercontent.com/71177413/166143957-9f4f56f2-78a6-478b-be33-cc359767bc75.JPG)
+
 
 **Screenshot [2] (When the program runs, it sends the information to the e-mail address in its settings.)**
-![1](https://user-images.githubusercontent.com/71177413/166140663-3d756371-de97-4efd-8126-5d75614da434.JPG)
+![1](https://user-images.githubusercontent.com/71177413/166143994-414c1813-dc85-4122-903b-43ff43b3ebf2.JPG)
+
 
 **Screenshot [3] (The e-mail address can be changed by sending the parameters to the program at the beginning.)**
-![4](https://user-images.githubusercontent.com/71177413/166140793-c18caf24-b312-4e0a-a403-750c6f22da11.JPG)
+![4](https://user-images.githubusercontent.com/71177413/166144022-c4fb9fc9-fe39-43e1-896e-af37611de673.JPG)
 
 
 Windows Defender
