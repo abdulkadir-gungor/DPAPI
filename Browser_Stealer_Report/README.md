@@ -78,11 +78,11 @@ Some Screenshot of the Working of the Program
 ![11](https://user-images.githubusercontent.com/71177413/166139251-5e006a71-d077-4de5-a4af-d29a0a2a0c19.JPG)
 
 
-**Screenshot [5] (The sheet showing the (current) cookies registered in the report produced by the program)**
+**Screenshot [5] (The sheet showing the (current) cookies saved in the report produced by the program)**
 ![12](https://user-images.githubusercontent.com/71177413/166139280-01179ffd-fb96-4db8-bfc2-f72532f8c22c.JPG)
 
 
-**Screenshot [6] (The sheet showing the (expired) cookies registered in the report produced by the program)**
+**Screenshot [6] (The sheet showing the (expired) cookies saved in the report produced by the program)**
 ![13](https://user-images.githubusercontent.com/71177413/166139310-fe79c485-25ee-4fbc-b626-2fcbc4d222a6.JPG)
 
 
