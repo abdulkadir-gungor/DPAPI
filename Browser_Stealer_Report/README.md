@@ -54,7 +54,7 @@ pip install pyinstaller
 
 Compilation
 ---
-
+[Language : Python 3.8.5]
 ```
 pyinstaller --onefile --icon=Browser_Stealer_Report.ico Browser_Stealer_Report.py
 ```
