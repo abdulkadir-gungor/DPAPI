@@ -79,7 +79,7 @@ Settings
 
 Compilation
 ---
-
+[Language : Python 3.8.5]
 ```
 pyinstaller --onefile --noconsole --icon=Browser_Stealer.ico Browser_Stealer.py
 ```
